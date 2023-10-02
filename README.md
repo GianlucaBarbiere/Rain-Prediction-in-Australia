@@ -6,11 +6,12 @@ Australia's diverse climate, characterized by varying weather patterns and extre
 - - - -
 # Project
 The dataset info are detailed described in the project [Rain prediction in Australia](https://github.com/GianlucaBarbiere/Rain-Prediction-in-Australia/blob/main/Rain%20Prediction%20in%20Australia.ipynb)
+
 The primary objectives of this project encompass:
 
 1. Data Collection and Preprocessing: Gathering comprehensive weather data, including historical meteorological parameters such as temperature, humidity, wind speed, and rainfall. Data preprocessing involves cleaning, feature engineering, and addressing missing values.
 
-2. Model Selection and Training: Implementing and training five machine learning models—Logistic Regression, SVM, KNN, DTREE, and Linear Regression—for binary classification to predict whether it will rain the next day.
+2. Model Selection and Training: Implementing and training five machine learning models—Logistic Regression, SVM, KNN, DTREE, and Linear Regression for binary classification to predict whether it will rain the next day.
 
 3. Model Evaluation: Assessing the performance of each model using relevant evaluation metrics such as accuracy, F1-score, Log loss and Jaccard-index. For Linear Regression model the metrics used are Mean absolute error, Mean squared error and R2-Score.
 This allows for a comprehensive comparison of their predictive abilities.
